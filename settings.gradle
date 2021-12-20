@@ -1,0 +1,4 @@
+
+rootProject.name = "project_net"
+include ':app'
+include ':lib_net'
